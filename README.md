@@ -1,1 +1,1 @@
-# RustKorea
+[![Banner for RustKorea.com - Main](https://cdn.battlemetrics.com/b/horizontal500x80px/17496576.png?foreground=%23ffffff&background=%231c1c1c&lines=%23983232&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/rust/17496576)
